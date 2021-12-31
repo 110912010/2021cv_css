@@ -101,31 +101,31 @@ a:hover {
     margin-left: 30px;
   }
 
-  .btn {
-    background: #11cdd4;
-    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
-    font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-  }
+.btn {
+  background: #7ebde6;
+  background-image: -webkit-linear-gradient(top, #7ebde6, #b0c9d9);
+  background-image: -moz-linear-gradient(top, #7ebde6, #b0c9d9);
+  background-image: -ms-linear-gradient(top, #7ebde6, #b0c9d9);
+  background-image: -o-linear-gradient(top, #7ebde6, #b0c9d9);
+  background-image: linear-gradient(to bottom, #7ebde6, #b0c9d9);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  text-shadow: 2px 1px 0px #666666;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
 
-  .btn:hover {
-    background: #30e3cb;
-    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
-    text-decoration: none;
-  }
-
+.btn:hover {
+  background: #479bcf;
+  background-image: -webkit-linear-gradient(top, #479bcf, #1d40de);
+  background-image: -moz-linear-gradient(top, #479bcf, #1d40de);
+  background-image: -ms-linear-gradient(top, #479bcf, #1d40de);
+  background-image: -o-linear-gradient(top, #479bcf, #1d40de);
+  background-image: linear-gradient(to bottom, #479bcf, #1d40de);
+  text-decoration: none;
+}
 
