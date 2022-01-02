@@ -52,7 +52,7 @@ a:hover {
 .top-container {
   background-color: #F1D4D4;
   position: relative;
-  padding-top: 100px;
+  padding-top: 200px;
   }
   
   .middle-container {
@@ -74,7 +74,7 @@ a:hover {
   }
 
   .top-cloud {
-    position: absolute;
+    position: left;
     right: 300px;
     top: 40px;
   }
