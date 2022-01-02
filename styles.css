@@ -31,21 +31,21 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted  6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
 }
 
 a{
-  color: #11999E;
+  color: #484C7F;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #FFF1BD;
 }
 
 .top-container {
